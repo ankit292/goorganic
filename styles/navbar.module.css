@@ -1,0 +1,23 @@
+.navBar {list-style: none;display: flex;}
+.profile{position: relative;display: flex;align-items: center;}
+.ulProfile{
+    position: absolute;
+    right: 0;
+    top: 25px;
+    background: #43bd4c;
+    padding: 10px 20px;
+    width: 15vw;
+}
+.ulProfile li{
+    list-style-type: none;
+    margin-bottom: 10px;
+}
+.ulProfile a{
+    font-size: 16px;
+    font-weight: 500;
+    color: #fff;
+    display: flex;
+    align-items: center;
+}
+
+

@@ -1,0 +1,14 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+.row{display: flex;}
+.col-md-2{width: 20%;}
+.d-flex{display: flex;} 
+.justify-content-center{justify-content: center;} 
+.align-items-center{align-items: center;}
+.justify-content-between{justify-content: space-between;}
+.justify-content-around{justify-content: space-around;}
+.progress{background: rgb(210, 212, 207);}
+.col-md-10{width: 80%;}
+.justify-content-end{justify-content: end;}
+
